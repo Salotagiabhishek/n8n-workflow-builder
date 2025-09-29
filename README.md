@@ -29,6 +29,10 @@ Perfect for teams using n8n who want to leverage **AI assistants for workflow au
 
 ---
 
+📸 Screenshots --- Voice assistant agent 
+![Workflow Builder Screenshot](https://github.com/Salotagiabhishek/n8n-workflow-builder/raw/main/Screenshot%202025-09-30%20014624.png)
+
+
 ## 📋 Requirements
 - Node.js **v18+**  
 - An n8n instance (self-hosted or cloud)  
